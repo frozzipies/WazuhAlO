@@ -7,6 +7,7 @@ Automate your Wazuh installation, configuration, and setup with this easy-to-use
 - Config File Generation: Automatically generate configuration files based on user input.
 - Cluster Setup: Includes options to start Wazuh cluster services after installation for scalability.
 - Uninstallation: Provides an option to completely uninstall Wazuh from the system.
+- Fail2ban, IPtables, Suricata, etc Integration (soon)
 
 ## Prerequisites
 This script should be run with `root` privileges. You can use sudo to execute it.
