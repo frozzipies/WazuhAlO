@@ -1,4 +1,4 @@
-![image](https://github.com/frozzipies/WazuhAlO/assets/97401702/cb245a5d-795f-4e72-8d83-813cfda46d79)## Wazuh AIO (All in One)
+## Wazuh AIO (All in One)
 Automate your Wazuh installation, configuration, and setup with this easy-to-use bash script. This script is designed for Linux (Debian, Ubuntu, RHEL, CentOS, etc) systems and simplifies the process of installing and configuring Wazuh components, including the Wazuh Indexer, Wazuh Manager, Wazuh Dashboard, and many other Wazuh configurations
 
 ## Features
