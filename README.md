@@ -17,3 +17,6 @@ This script should be run with `root` privileges. You can use sudo to execute it
 3. Choose an option based on what you need
    
 ![image](https://github.com/frozzipies/WazuhAlO/assets/97401702/c592c9b9-50ad-4f43-96b0-04090b04e3ea)
+
+## Note
+This tool is currently under development. Stay tuned for updates and improvements
